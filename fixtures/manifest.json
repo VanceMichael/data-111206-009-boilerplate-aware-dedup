@@ -1,0 +1,65 @@
+[
+  {
+    "id": "north-1",
+    "site": "north",
+    "kind": "detail",
+    "path": "fixtures/corpus/north-1.html",
+    "revision": "1"
+  },
+  {
+    "id": "north-2",
+    "site": "north",
+    "kind": "detail",
+    "path": "fixtures/corpus/north-2.html",
+    "revision": "1"
+  },
+  {
+    "id": "north-3",
+    "site": "north",
+    "kind": "detail",
+    "path": "fixtures/corpus/north-3.html",
+    "revision": "1"
+  },
+  {
+    "id": "north-short",
+    "site": "north",
+    "kind": "detail",
+    "path": "fixtures/corpus/north-short.html",
+    "revision": "1"
+  },
+  {
+    "id": "south-copy",
+    "site": "south",
+    "kind": "detail",
+    "path": "fixtures/corpus/south-copy.html",
+    "revision": "1"
+  },
+  {
+    "id": "chain-a",
+    "site": "south",
+    "kind": "detail",
+    "path": "fixtures/corpus/chain-a.html",
+    "revision": "1"
+  },
+  {
+    "id": "chain-b",
+    "site": "south",
+    "kind": "detail",
+    "path": "fixtures/corpus/chain-b.html",
+    "revision": "1"
+  },
+  {
+    "id": "chain-c",
+    "site": "south",
+    "kind": "detail",
+    "path": "fixtures/corpus/chain-c.html",
+    "revision": "1"
+  },
+  {
+    "id": "sample-code",
+    "site": "south",
+    "kind": "code",
+    "path": "fixtures/corpus/sample-code.html",
+    "revision": "1"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "confirmed_same": [
+    [
+      "north-1",
+      "south-copy"
+    ]
+  ],
+  "confirmed_different": [
+    [
+      "north-1",
+      "north-2"
+    ]
+  ],
+  "threshold": 0.55,
+  "notes": "相似链没有人工标签，按内容与规则判断；示例确认不等于所有文章答案。"
+}
