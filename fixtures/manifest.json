@@ -1,5 +1,26 @@
 [
   {
+    "id": "north-list-1",
+    "site": "north",
+    "kind": "list",
+    "path": "fixtures/corpus/north-list-1.html",
+    "revision": "1"
+  },
+  {
+    "id": "north-list-2",
+    "site": "north",
+    "kind": "list",
+    "path": "fixtures/corpus/north-list-2.html",
+    "revision": "1"
+  },
+  {
+    "id": "north-list-3",
+    "site": "north",
+    "kind": "list",
+    "path": "fixtures/corpus/north-list-3.html",
+    "revision": "1"
+  },
+  {
     "id": "north-1",
     "site": "north",
     "kind": "detail",
